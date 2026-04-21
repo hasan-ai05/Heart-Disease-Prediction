@@ -159,4 +159,4 @@ images/                           screenshots from notebook output
 
 ---
 
-*Part of an 8-project AI Engineering portfolio — Hasan Akhras*
+* Hasan Akhras*
